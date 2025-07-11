@@ -24,6 +24,7 @@ A Power BI dashboard analyzing key website performance metrics such as session d
 ---
 
 ## 📸 Dashboard Screenshot
+![Dashboard Screenshot](website%20performance.png)
 
 
 
